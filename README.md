@@ -1,5 +1,7 @@
 # Tally AI Front End
 
+Mainly contributed as a front end developer. Created dashboard's widget system (draggable and droppable modular components) and tab system (for viewing analytics of multiple businesses), and helped with most other front end features.
+
 #  Contributors
 ## Web Development 
 
