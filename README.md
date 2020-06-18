@@ -36,7 +36,7 @@ Mainly contributed as a front end developer. Created dashboard's widget system (
 
 # Project Overview
 
-## Key Features
+Helps business owners see what their customers are saying about them across the internet, through a simple and intuitive dashboard.
 
 # Tech Stack
 - React
